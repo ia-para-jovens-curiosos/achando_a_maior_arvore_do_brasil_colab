@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+log.txt
+.ipynb_checkpoints/
+/data/nuvem_de_pontos_orig.laz
