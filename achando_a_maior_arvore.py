@@ -1,3 +1,4 @@
+# Autor: Mauro Assis (https://github.com/assismauro)
 """
 Camada em português que esconde o laspy, o numpy e o matplotlib por trás de
 funções simples: carregar_nuvem(), buscar_maior_arvore() e mostrar_resultado().
